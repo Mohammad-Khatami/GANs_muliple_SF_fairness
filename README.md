@@ -1,4 +1,7 @@
 # GANs_muliple_SF_fairness
+# Overview
+This repository contains code for a multiple sensitive feature model using the EO (Equalized Odds) metric. The adversarial network utilizes the CE (Cross-Entropy) loss function for bias mitigation.
+
 # Project Setup
 
 ## Setting Up the Environment
